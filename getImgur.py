@@ -10,6 +10,7 @@ from os.path import expanduser
 
 # Replace the usernamme alien with your username, there is 2 instances, one at the bottom also.
 # If you run into any problems make sure you have permissions set correctly for desktop.jpg
+# I should eventually use something like $USER to do this automatically
 
 image = "/home/alien/apps/ImgurWallpaper/desktop.jpg"
 
