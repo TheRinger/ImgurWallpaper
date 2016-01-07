@@ -1,5 +1,7 @@
 # ImgurWallpaper
-Python App that downloads random image from /r/wallpapers/new/ and replaces desktop wallpaper
+Forked from https://github.com/MattCairns/ImgurDesktop
+
+Python App that downloads random image from http:/reddit.com/r/wallpapers/new/ and replaces a linux desktop wallpaper every 5 minutes
 
 to install to same directory hierarchy
 
